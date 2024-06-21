@@ -1,0 +1,20 @@
+page{
+	background-image: url(/static/bg1.png);
+	background-size: 100% 100%;
+}
+.centerview{
+	width: 650rpx;
+	height: 750rpx;
+	background-color: white;
+	border-radius: 20rpx;
+}
+.loginbtn{
+	width: 300rpx;
+	height: 80rpx;
+	background-color: #00A0E9;
+	text-align: center;
+	line-height: 80rpx;
+	color: white;
+	font-weight: bold;
+	border-radius: 50rpx;
+}

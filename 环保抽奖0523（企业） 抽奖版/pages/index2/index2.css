@@ -1,0 +1,48 @@
+page{
+	background-image: url(/static/bg2.png);
+	background-size: 100% 100%;
+	width:750rpx;
+	height: 100vh;
+}
+.toplogo{
+	width: 522rpx;
+	height: 90rpx;
+}
+.wentiview{
+	background-image: url(/static/zhizhang.png);
+	background-size: 100% 100%;
+	width: 700rpx;
+	min-height: 500rpx;
+	padding:20rpx 80rpx 20rpx 100rpx;
+}
+.danweimc{  
+	background-color:  #00A0E9;
+	font-size: 30rpx;  
+	color: white;
+	padding:15rpx 15rpx;
+	border-radius: 15rpx;
+	 box-sizing: border-box;
+	 width: fit-content;
+}
+.selbox{
+	width:30rpx;
+	height: 30rpx;
+	background-color: white;
+	float: left; 
+	margin:10rpx 20rpx 10rpx 10rpx;
+}
+.selbox1{
+	width:30rpx;
+	height: 30rpx;
+	float: left; 
+	margin:10rpx 20rpx 10rpx 10rpx;
+}
+.dasdh{
+	width: 400rpx;
+	height:70rpx;
+	background-color: #00A0E9;
+	border-radius: 500rpx;
+	text-align: center;
+	line-height: 70rpx;
+	color: white;
+}

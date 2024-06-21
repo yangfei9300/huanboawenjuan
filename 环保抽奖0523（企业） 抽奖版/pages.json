@@ -1,0 +1,50 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText":"您最想约的环保观众"
+			}
+		},
+		{
+			"path" : "pages/index2/index2",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"navigationBarTitleText":"您最想约的环保观众"
+			}
+		},
+		{
+			"path" : "pages/index3/index3",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"navigationBarTitleText":"您最想约的环保观众"
+			}
+		},
+		{
+			"path" : "pages/index4/index4",
+			"style" : 
+			{
+				"navigationBarTitleText" : "抽奖记录",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/index5/index5",
+			"style" : 
+			{
+				"navigationBarTitleText" : "预登记 享好礼",
+				"enablePullDownRefresh" : false
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "您最想约的环保观众",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
