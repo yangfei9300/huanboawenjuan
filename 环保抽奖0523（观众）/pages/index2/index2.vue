@@ -56,7 +56,8 @@
 								class="selbox"
 								></image>
 								<!-- {{index2+1}}. -->
-								<text>{{item2.content}}</text>
+								<!-- <text>{{item2.content}}</text> -->
+								<rich-text :nodes="item2.content"></rich-text>
 							</view>
 							</block>
 						</view>
